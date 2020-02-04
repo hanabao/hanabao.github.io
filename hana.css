@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC&display=swap');
+ body{
+      background-color: Seashell;
+      color: Darksalmon;
+      border: 66px double white;
+      padding-top: 50px;
+      padding-right: 100px;
+      padding-bottom: 50px;
+      padding-left: 100px;
+      font-family:'Amatic SC', cursive;
+      }
+  ol {
+      list-style-type: none;
+     }
+  hr {
+      border: 6px dotted white;
+      border-radius: 10px;
+     }
+  img {
+       
+       padding-top: 100 px;
+       float: right;
+        }
+  h2 {
+  	font-size: 24px;
+  }
